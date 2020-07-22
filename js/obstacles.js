@@ -24,7 +24,7 @@ class Obstacles{
         image(this.image3,displayWidth-500,displayHeight/2+30,160,160);
         image(this.image4,displayWidth-700,displayHeight/2+30,160,160);
         image(this.image5,displayWidth-900,displayHeight/2+30,230,160);
-        image(this.image6,displayWidth-600,displayHeight/2+30,300,160);
+        image(this.image6,displayWidth-800,displayHeight/2+10,300,350);
         image(this.image7,displayWidth-400,displayHeight/2+50,300,130);
         image(this.image8,displayWidth-200,displayHeight/2+100,100,50);
     }
